@@ -1,1 +1,1 @@
-# GuessingGame
+# IsItPrime
